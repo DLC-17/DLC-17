@@ -19,7 +19,6 @@
 
 **Backend & APIs:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 
 **Data & ML:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -32,14 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
 **Tools:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-
 ---
 
 ## 📈 What I'm Working On
@@ -77,10 +72,5 @@ Used ML to predict patient age from fMRI scans. Built preprocessing pipelines an
 
 ---
 
-## 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLC-17&show_icons=true&theme=radical)
-
----
 
 _Thanks for stopping by! Feel free to check out my pinned projects or reach out to collaborate 😊_
