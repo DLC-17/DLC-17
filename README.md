@@ -4,7 +4,6 @@
 **DLC-17/DLC-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 🎓 I'm a recent graduate from **Saint Mary's College of California** with a **B.S. in Computer Science** and **Data Science**.  
-
 💡 I’m passionate about building software that solves real problems — from full-stack web apps to machine learning tools.
 ---
 
@@ -20,7 +19,7 @@
 
 ## 🚀 Featured Projects
 - **📸 Responsive Photography Portfolio**  
-  Full-stack portfolio for a client using Angular + Tailwind, hosted on Vercel. Features responsive design and lightbox image navigation.  
+  Full-stack portfolio for a client using React + Tailwind, hosted on Vercel. Features responsive design and lightbox image navigation.  
   [[GitHub Repo](https://github.com/DLC-17/RT-Portfolio)] | [[Live Demo](https://rt-portfolio-drab.vercel.app)]
 
 - **🧠 fMRI Age Prediction Model**  
