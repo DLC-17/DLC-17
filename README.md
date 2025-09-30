@@ -64,7 +64,7 @@ Used ML to predict patient age from fMRI scans. Built preprocessing pipelines an
 <a href="https://www.linkedin.com/in/david-coleman17/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-<a href="https://portfolio-site-7j28g11em-david-colemans-projects-415c0670.vercel.app" target="_blank">
+<a href="https://www.dc-dev.space" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
 </a>
 
