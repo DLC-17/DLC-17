@@ -57,11 +57,11 @@ The final for my Database Programming class analyzing the information stored wit
 🔗 [GitHub Repo](https://github.com/DLC-17/Database-Final)
 
 ---
-### Real-Time-Face-verification
+###  Real-Time-Face-verification
 A real time face verification system utilizing python and the OpenCV library
-
 **Tech:** OpenCV, python, HaarCascade
 🔗 [GitHub Repo](https://github.com/DLC-17/Real-Time-Face-verification)
+
 ---
 
 ## 📫 Let’s Connect
