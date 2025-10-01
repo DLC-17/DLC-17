@@ -52,13 +52,13 @@ A dynamic, mobile-first photo gallery built with React and Tailwind CSS.
 ---
 
 ### 🧠 Database Final  
-The final for my Database Programming class analyzing the information stored within the Lahman's Baseball database  
+The final for my Database Programming class analyzing the information stored within the Lahman's Baseball database.  
 **Tech:** Tableu, SQL, Google Slides  
 🔗 [GitHub Repo](https://github.com/DLC-17/Database-Final)
 
 ---
 ###  Real-Time-Face-verification
-A real time face verification system utilizing python and the OpenCV library
+A real time face verification system utilizing python and the OpenCV library. 
 **Tech:** OpenCV, python, HaarCascade
 🔗 [GitHub Repo](https://github.com/DLC-17/Real-Time-Face-verification)
 
