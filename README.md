@@ -37,9 +37,8 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📈 What I'm Working On
-- Completing **Harvard's CS50** certification  
-- Building full-stack apps and ML-powered tools to sharpen my SWE skills  
+## 📈 What I'm Working On  
+- Building full-stack apps to sharpen my SWE skills  
 
 ---
 
@@ -52,11 +51,15 @@ A dynamic, mobile-first photo gallery built with React and Tailwind CSS.
 
 ---
 
-### 🧠 fMRI Age Prediction  
-Used ML to predict patient age from fMRI scans. Built preprocessing pipelines and contributed synthetic data generation modules.  
-**Tech:** Python, NumPy, Pandas, scikit-learn  
-🔗 [GitHub Repo](#)
+### 🧠 Database Final  
+The final for my Database Programming class analyzing the information stored within the Lahman's Baseball database  
+**Tech:** Tableu, SQL, Google Slides  
+🔗 [GitHub Repo]([#](https://github.com/DLC-17/Database-Final))
 
+---
+### Real-Time-Face-verification
+A real time face verification system utilizing python and the OpenCV library
+**Tech:** OpenCV, python, HaarCascade
 ---
 
 ## 📫 Let’s Connect
