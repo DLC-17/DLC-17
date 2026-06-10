@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm David!
 
-🎓 I'm Graduate from **Saint Mary's College of California** with a **B.S. in Computer Science** and **Data Science**.
+🎓 I'm a Graduate from **Saint Mary's College of California** with a **B.S. in Computer Science** and **Data Science**.
 
 ---
 
