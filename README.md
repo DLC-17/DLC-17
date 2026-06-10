@@ -39,7 +39,7 @@
 ---
 
 ## 📈 What I'm Working On  
-- Building full-stack apps to sharpen my SWE skills  
+- Working on a tool to make keeping up with emerging technologies easier and automated  
 
 ---
 
@@ -54,7 +54,7 @@ A dynamic, mobile-first photo gallery built with React and Tailwind CSS.
 
 ### 🧠 Database Final  
 Final project for my Database Programming class analyzing the Lahman's Baseball database.  
-**Tech:** Tableau, SQL, Google Slides  
+**Tech:** Tableau, SQL
 🔗 [GitHub Repo](https://github.com/DLC-17/Database-Final)
 
 ---
