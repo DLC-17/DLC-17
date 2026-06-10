@@ -75,7 +75,7 @@ A real-time face verification system built with Python and OpenCV.
   <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
 </a>
 
-📧 Email: `dlc17@stmarys-ca.edu`
+📧 Email: `david@dc-dev.space`
 
 ---
 
