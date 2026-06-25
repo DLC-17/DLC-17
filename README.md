@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm David
 
 Software engineer focused on AI-adjacent products — voice agent orchestration, browser automation, and full-stack systems that ship to real users. B.S. Computer Science & Data Science, Saint Mary's College of California ('25).
+
 ---
 
 ## 🛠️ What I've Built in Production
@@ -30,10 +31,15 @@ A full-stack app that identifies items from images and matches them to live eBay
 ## 💻 Tech Stack
 
 **Languages:** Python · TypeScript · JavaScript · SQL
+
 **Frontend:** React · React Native (Expo) · Next.js · Tailwind CSS
+
 **Backend:** Node.js · Express · FastAPI
+
 **AI/Agents:** Vapi · Claude API · OpenAI API · LLM evaluation
+
 **Data:** Pandas · scikit-learn · PyTorch · SQLAlchemy · Redis
+
 **Infra:** Docker · Northflank · Vercel · Neon · Git
 
 ---
