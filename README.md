@@ -1,82 +1,46 @@
-## 👋 Hi, I'm David!
+## 👋 Hi, I'm David
 
-🎓 I'm a Graduate from **Saint Mary's College of California** with a **B.S. in Computer Science** and **Data Science**.
+Software engineer focused on AI-adjacent products — voice agent orchestration, browser automation, and full-stack systems that ship to real users. B.S. Computer Science & Data Science, Saint Mary's College of California ('25).
 
----
-
-## 💻 Tech Stack & Tools
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Data & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**DevOps & Deployment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-**Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+I like working close to ambiguity: no playbook, no public API, figure it out and ship.
 
 ---
 
-## 📈 What I'm Working On  
-- Working on a tool to make keeping up with emerging technologies easier and automated  
+## 🛠️ What I've Built in Production
+
+**Forward Deployed Engineer — Spoqen** *(founding technical hire)*
+Built Playwright-driven browser automation against a third-party system with no public API, and orchestrated Vapi voice agents directly on live customer systems. No existing playbook — designed the approach from scratch.
+
+**Human-in-the-Loop Engineer — Infinitus**
+Monitored live production voice agent calls in real time, catching hallucinations and logic drift before they reached customers, and surfaced recurring failure patterns back to the engineering team.
 
 ---
 
-## 📂 Pinned Projects
+## 📂 Projects
 
-### 📸 Responsive Photography Portfolio  
-A dynamic, mobile-first photo gallery built with React and Tailwind CSS.  
-**Tech:** React, Tailwind, Lightbox, Vercel  
-🔗 [Live Site](https://rt-portfolio-drab.vercel.app/Gallery) | [GitHub Repo](https://github.com/DLC-17/RT-Portfolio)
+### 📚 Daily Learn
+A full-stack mobile app for automated, scheduled learning content delivery.
+**Tech:** React Native (Expo), TypeScript, Express, cron-scheduled jobs, push notifications, Northflank, Neon, EAS
+🔗 [GitHub Repo](#) <!-- add your repo link -->
 
----
-
-### 🧠 Database Final  
-Final project for my Database Programming class analyzing the Lahman's Baseball database.  
-**Tech:** Tableau, SQL
-🔗 [GitHub Repo](https://github.com/DLC-17/Database-Final)
+### 🔍 Listing Lens
+A full-stack app that identifies items from images and matches them to live eBay listings.
+**Tech:** React, TypeScript, FastAPI, Claude/OpenAI vision, eBay Browse API, JWT auth, Redis rate limiting, SQLAlchemy, Docker
+🔗 [GitHub Repo](#) <!-- add your repo link -->
 
 ---
 
-### 👤 Real-Time Face Verification  
-A real-time face verification system built with Python and OpenCV.  
-**Tech:** OpenCV, Python, HaarCascade  
-🔗 [GitHub Repo](https://github.com/DLC-17/Real-Time-Face-verification)
+## 💻 Tech Stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL
+**Frontend:** React · React Native (Expo) · Next.js · Tailwind CSS
+**Backend:** Node.js · Express · FastAPI
+**AI/Agents:** Vapi · Claude API · OpenAI API · LLM evaluation
+**Data:** Pandas · scikit-learn · PyTorch · SQLAlchemy · Redis
+**Infra:** Docker · Northflank · Vercel · Neon · Git
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/david-coleman17/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.dc-dev.space" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
-</a>
-
-📧 Email: `david@dc-dev.space`
-
----
-
-_Thanks for stopping by! Feel free to check out my pinned projects or reach out to collaborate 😊_
+[LinkedIn](https://www.linkedin.com/in/david-coleman17/) · [Portfolio](https://www.dc-dev.space) · david@dc-dev.space
