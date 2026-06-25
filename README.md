@@ -1,9 +1,6 @@
 ## 👋 Hi, I'm David
 
 Software engineer focused on AI-adjacent products — voice agent orchestration, browser automation, and full-stack systems that ship to real users. B.S. Computer Science & Data Science, Saint Mary's College of California ('25).
-
-I like working close to ambiguity: no playbook, no public API, figure it out and ship.
-
 ---
 
 ## 🛠️ What I've Built in Production
