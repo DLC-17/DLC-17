@@ -14,20 +14,6 @@ Monitored live production voice agent calls in real time, catching hallucination
 
 ---
 
-## 📂 Projects
-
-### 📚 Daily Learn
-A full-stack mobile app for automated, scheduled learning content delivery.
-**Tech:** React Native (Expo), TypeScript, Express, cron-scheduled jobs, push notifications, Northflank, Neon, EAS
-🔗 [GitHub Repo](#) <!-- add your repo link -->
-
-### 🔍 Listing Lens
-A full-stack app that identifies items from images and matches them to live eBay listings.
-**Tech:** React, TypeScript, FastAPI, Claude/OpenAI vision, eBay Browse API, JWT auth, Redis rate limiting, SQLAlchemy, Docker
-🔗 [GitHub Repo](#) <!-- add your repo link -->
-
----
-
 ## 💻 Tech Stack
 
 **Languages:** Python · TypeScript · JavaScript · SQL
