@@ -52,14 +52,11 @@ Monitored live production voice agent calls in real time, catching hallucination
         <h3 align="center">AI / Agents</h3>
         <a href="https://vapi.ai/" target="_blank"><img alt="Vapi" height="42px" src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=white" style="margin: 5px;"></a>
         <a href="https://anthropic.com/" target="_blank"><img alt="Claude API" height="42px" src="https://cdn.simpleicons.org/anthropic/white" style="margin: 5px;"></a>
+        <a href="https://gemini.google.com/" target="_blank"><img alt="Google Gemini" height="42px" src="https://cdn.simpleicons.org/googlegemini/white" style="margin: 5px;"></a>
       </td>
       <td valign="top" width="33%" style="border: none;">
         <h3 align="center">Data</h3>
         <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" height="42px" src="https://cdn.simpleicons.org/pandas/white" style="margin: 5px;"></a>
-        <a href="https://scikit-learn.org/" target="_blank"><img alt="scikit-learn" height="42px" src="https://cdn.simpleicons.org/scikitlearn/white" style="margin: 5px;"></a>
-        <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="42px" src="https://cdn.simpleicons.org/pytorch/white" style="margin: 5px;"></a>
-        <br>
-        <a href="https://redis.io/" target="_blank"><img alt="Redis" height="42px" src="https://cdn.simpleicons.org/redis/white" style="margin: 5px;"></a>
       </td>
       <td valign="top" width="33%" style="border: none;">
         <h3 align="center">Infra</h3>
