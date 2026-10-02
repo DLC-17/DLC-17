@@ -22,18 +22,7 @@ Monitored live production voice agent calls in real time, catching hallucination
 
 ---
 
-## 🖼️ Gallery
 
-**[predix-volcano-app](#)**
-Reference Application for data analysis of Masaya Volcano data using Flask, PredixPy, TimeSeries, Asset, UAA, and PredixUI
-
-**[san-diego-streetlights](#)**
-Smart City Street Light Visualization of San Diego, CA
-
-**[sentiment-analysis-reddit](#)**
-Project to do a sentiment analysis of Reddit stories and comments in a technical community
-
-*(Note: Replace the `#` with your actual repository links!)*
 
 ---
 
