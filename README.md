@@ -4,6 +4,14 @@ Software engineer focused on AI-adjacent products — voice agent orchestration,
 
 ---
 
+## 🚀 What I'm Currently Working On
+
+*   **Social Impact PWA:** Repositioning a Progressive Web App (PWA) designed to provide resources and support to help formerly incarcerated individuals successfully reintegrate into society.
+*   **Open Source:** Actively making open-source contributions to **Open Peeps**.
+*   **Homelab:** Building and experimenting with a personal homelab environment for self-hosting and continuous learning.
+
+---
+
 ## 🛠️ What I've Built in Production
 
 **Forward Deployed Engineer — Spoqen** *(founding technical hire)*
@@ -11,6 +19,21 @@ Built Playwright-driven browser automation against a third-party system with no 
 
 **Human-in-the-Loop Engineer — Infinitus**
 Monitored live production voice agent calls in real time, catching hallucinations and logic drift before they reached customers, and surfaced recurring failure patterns back to the engineering team.
+
+---
+
+## 🖼️ Gallery
+
+**[predix-volcano-app](#)**
+Reference Application for data analysis of Masaya Volcano data using Flask, PredixPy, TimeSeries, Asset, UAA, and PredixUI
+
+**[san-diego-streetlights](#)**
+Smart City Street Light Visualization of San Diego, CA
+
+**[sentiment-analysis-reddit](#)**
+Project to do a sentiment analysis of Reddit stories and comments in a technical community
+
+*(Note: Replace the `#` with your actual repository links!)*
 
 ---
 
