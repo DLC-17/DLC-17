@@ -4,6 +4,67 @@ Software engineer focused on AI-adjacent products — voice agent orchestration,
 
 ---
 
+## 🖼️ Project Gallery 
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://via.placeholder.com/400x225.png?text=Spoqen+Voice+Agents" alt="Spoqen" width="100%" />
+      </a>
+      <br />
+      <b>Spoqen</b>
+      <br />
+      <i>Playwright & Vapi Voice Agents</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://via.placeholder.com/400x225.png?text=Social+Impact+PWA" alt="Social Impact PWA" width="100%" />
+      </a>
+      <br />
+      <b>Social Impact PWA</b>
+      <br />
+      <i>Reintegration Resources</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://via.placeholder.com/400x225.png?text=Infinitus" alt="Infinitus" width="100%" />
+      </a>
+      <br />
+      <b>Infinitus</b>
+      <br />
+      <i>Human-in-the-Loop Agent Monitoring</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://via.placeholder.com/400x225.png?text=Homelab" alt="Homelab" width="100%" />
+      </a>
+      <br />
+      <b>Homelab</b>
+      <br />
+      <i>Self-Hosting & Infra</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="#">
+        <img src="https://via.placeholder.com/400x225.png?text=Open+Peeps" alt="Open Peeps" width="100%" />
+      </a>
+      <br />
+      <b>Open Peeps</b>
+      <br />
+      <i>Open Source Contributions</i>
+    </td>
+    <td align="center" width="33%">
+      <!-- You can add a 6th project here -->
+    </td>
+  </tr>
+</table>
+
+*(Note: Replace the `href="#"` links with your actual project/repo URLs and update the `img src` placeholders with screenshots or logos from your projects.)*
+
+---
+
 ## 🚀 What I'm Currently Working On
 
 *   **Social Impact PWA:** Repositioning a Progressive Web App (PWA) designed to provide resources and support to help formerly incarcerated individuals successfully reintegrate into society.
@@ -19,10 +80,6 @@ Built Playwright-driven browser automation against a third-party system with no 
 
 **Human-in-the-Loop Engineer — Infinitus**
 Monitored live production voice agent calls in real time, catching hallucinations and logic drift before they reached customers, and surfaced recurring failure patterns back to the engineering team.
-
----
-
-
 
 ---
 
