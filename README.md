@@ -28,41 +28,41 @@ Monitored live production voice agent calls in real time, catching hallucination
   <tr>
     <td valign="top" width="33%" style="border: none;">
       <h3>Languages</h3>
-      <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="assets/logo-python-svgrepo-com.svg"></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="assets/typescript-16.svg"></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="assets/javascript-16.svg"></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="SQL" height="42px" src="assets/sql-file-format.svg"></a>
+      <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://cdn.simpleicons.org/python/white" style="margin-right: 10px;"></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://cdn.simpleicons.org/typescript/white" style="margin-right: 10px;"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://cdn.simpleicons.org/javascript/white" style="margin-right: 10px;"></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="SQL" height="42px" src="https://cdn.simpleicons.org/postgresql/white" style="margin-right: 10px;"></a>
     </td>
     <td valign="top" width="33%" style="border: none;">
       <h3>Frontend</h3>
-      <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="assets/react.svg"></a>
-      <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height="42px" src="assets/next-dot-js.svg"></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="assets/tailwind-css.svg"></a>
+      <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://cdn.simpleicons.org/react/white" style="margin-right: 10px;"></a>
+      <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height="42px" src="https://cdn.simpleicons.org/nextdotjs/white" style="margin-right: 10px;"></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="https://cdn.simpleicons.org/tailwindcss/white" style="margin-right: 10px;"></a>
     </td>
     <td valign="top" width="33%" style="border: none;">
       <h3>Backend</h3>
-      <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="assets/node-js.svg"></a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height="42px" src="assets/fastapi.svg"></a>
+      <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://cdn.simpleicons.org/nodedotjs/white" style="margin-right: 10px;"></a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height="42px" src="https://cdn.simpleicons.org/fastapi/white" style="margin-right: 10px;"></a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%" style="border: none;">
       <h3>AI / Agents</h3>
-      <a href="https://vapi.ai/" target="_blank"><img align="left" alt="Vapi" height="42px" src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge"></a>
-      <a href="https://anthropic.com/" target="_blank"><img align="left" alt="Claude API" height="42px" src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"></a>
+      <a href="https://vapi.ai/" target="_blank"><img align="left" alt="Vapi" height="42px" src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=white" style="margin-right: 10px;"></a>
+      <a href="https://anthropic.com/" target="_blank"><img align="left" alt="Claude API" height="42px" src="https://cdn.simpleicons.org/anthropic/white" style="margin-right: 10px;"></a>
     </td>
     <td valign="top" width="33%" style="border: none;">
       <h3>Data</h3>
-      <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="assets/pandas.svg"></a>
-      <a href="https://scikit-learn.org/" target="_blank"><img align="left" alt="scikit-learn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/scikitlearn/scikitlearn.svg"></a>
-      <a href="https://pytorch.org/" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
-      <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redis/redis.svg"></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://cdn.simpleicons.org/pandas/white" style="margin-right: 10px;"></a>
+      <a href="https://scikit-learn.org/" target="_blank"><img align="left" alt="scikit-learn" height="42px" src="https://cdn.simpleicons.org/scikitlearn/white" style="margin-right: 10px;"></a>
+      <a href="https://pytorch.org/" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://cdn.simpleicons.org/pytorch/white" style="margin-right: 10px;"></a>
+      <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" height="42px" src="https://cdn.simpleicons.org/redis/white" style="margin-right: 10px;"></a>
     </td>
     <td valign="top" width="33%" style="border: none;">
       <h3>Infra</h3>
-      <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height="42px" src="assets/docker.svg"></a>
-      <a href="https://vercel.com/" target="_blank"><img align="left" alt="Vercel" height="42px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="assets/git.svg"></a>
+      <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height="42px" src="https://cdn.simpleicons.org/docker/white" style="margin-right: 10px;"></a>
+      <a href="https://vercel.com/" target="_blank"><img align="left" alt="Vercel" height="42px" src="https://cdn.simpleicons.org/vercel/white" style="margin-right: 10px;"></a>
+      <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://cdn.simpleicons.org/git/white" style="margin-right: 10px;"></a>
     </td>
   </tr>
 </table>
