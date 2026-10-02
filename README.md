@@ -4,67 +4,6 @@ Software engineer focused on AI-adjacent products — voice agent orchestration,
 
 ---
 
-## 🖼️ Project Gallery 
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x225.png?text=Spoqen+Voice+Agents" alt="Spoqen" width="100%" />
-      </a>
-      <br />
-      <b>Spoqen</b>
-      <br />
-      <i>Playwright & Vapi Voice Agents</i>
-    </td>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x225.png?text=Social+Impact+PWA" alt="Social Impact PWA" width="100%" />
-      </a>
-      <br />
-      <b>Social Impact PWA</b>
-      <br />
-      <i>Reintegration Resources</i>
-    </td>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x225.png?text=Infinitus" alt="Infinitus" width="100%" />
-      </a>
-      <br />
-      <b>Infinitus</b>
-      <br />
-      <i>Human-in-the-Loop Agent Monitoring</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x225.png?text=Homelab" alt="Homelab" width="100%" />
-      </a>
-      <br />
-      <b>Homelab</b>
-      <br />
-      <i>Self-Hosting & Infra</i>
-    </td>
-    <td align="center" width="33%">
-      <a href="#">
-        <img src="https://via.placeholder.com/400x225.png?text=Open+Peeps" alt="Open Peeps" width="100%" />
-      </a>
-      <br />
-      <b>Open Peeps</b>
-      <br />
-      <i>Open Source Contributions</i>
-    </td>
-    <td align="center" width="33%">
-      <!-- You can add a 6th project here -->
-    </td>
-  </tr>
-</table>
-
-*(Note: Replace the `href="#"` links with your actual project/repo URLs and update the `img src` placeholders with screenshots or logos from your projects.)*
-
----
-
 ## 🚀 What I'm Currently Working On
 
 *   **Social Impact PWA:** Repositioning a Progressive Web App (PWA) designed to provide resources and support to help formerly incarcerated individuals successfully reintegrate into society.
@@ -85,17 +24,55 @@ Monitored live production voice agent calls in real time, catching hallucination
 
 ## 💻 Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · SQL
-
-**Frontend:** React · React Native (Expo) · Next.js · Tailwind CSS
-
-**Backend:** Node.js · Express · FastAPI
-
-**AI/Agents:** Vapi · Claude API · OpenAI API · LLM evaluation
-
-**Data:** Pandas · scikit-learn · PyTorch · SQLAlchemy · Redis
-
-**Infra:** Docker · Northflank · Vercel · Neon · Git
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Languages</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>AI / Agents</h3>
+      <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" alt="Vapi" />
+      <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/LLM_Eval-4B32C3?style=for-the-badge" alt="LLM Evaluation" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Data</h3>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+    <td valign="top" width="33%">
+      <h3>Infra</h3>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Northflank-20232A?style=for-the-badge" alt="Northflank" />
+      <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 ---
 
