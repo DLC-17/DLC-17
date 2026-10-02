@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm David
 
-Software engineer focused on AI-adjacent products — voice agent orchestration, browser automation, and full-stack systems that ship to real users. B.S. Computer Science & Data Science, Saint Mary's College of California ('25).
+Versatilist software engineer focused on AI-adjacent products — voice agent orchestration, browser automation, and full-stack systems. B.S. Computer Science & Data Science, Saint Mary's College of California.
 
 ---
 
@@ -24,55 +24,51 @@ Monitored live production voice agent calls in real time, catching hallucination
 
 ## 💻 Tech Stack
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>Languages</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="SQL" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg"></a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>Frontend</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+      <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/nextjs/nextjs.svg"></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tailwindcss/tailwindcss.svg"></a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>Backend</h3>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/nodejs/nodejs.svg"></a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/fastapi/fastapi.svg"></a>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>AI / Agents</h3>
-      <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" alt="Vapi" />
-      <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-      <img src="https://img.shields.io/badge/LLM_Eval-4B32C3?style=for-the-badge" alt="LLM Evaluation" />
+      <!-- Using standard standard badge format for highly specific AI tools without square SVGs -->
+      <a href="https://vapi.ai/" target="_blank"><img align="left" alt="Vapi" height="42px" src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge"></a>
+      <a href="https://anthropic.com/" target="_blank"><img align="left" alt="Claude API" height="42px" src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"></a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>Data</h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pandas/pandas.svg"></a>
+      <a href="https://scikit-learn.org/" target="_blank"><img align="left" alt="scikit-learn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/scikitlearn/scikitlearn.svg"></a>
+      <a href="https://pytorch.org/" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
+      <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redis/redis.svg"></a>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border: none;">
       <h3>Infra</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Northflank-20232A?style=for-the-badge" alt="Northflank" />
-      <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+      <a href="https://vercel.com/" target="_blank"><img align="left" alt="Vercel" height="42px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+      <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git/git.svg"></a>
     </td>
   </tr>
 </table>
+
+<br clear="both">
 
 ---
 
