@@ -6,7 +6,7 @@ Software engineer focused on AI-adjacent products — voice agent orchestration,
 
 ## 🚀 What I'm Currently Working On
 
-*   **Social Impact PWA:** Repositioning a Progressive Web App (PWA) designed to provide resources and support to help formerly incarcerated individuals successfully reintegrate into society.
+*   **Reposition:** A Progressive Web App (PWA) designed to provide resources and support to help formerly incarcerated individuals successfully reintegrate into society.
 *   **Open Source:** Actively making open-source contributions to **Open Peeps**.
 *   **Homelab:** Building and experimenting with a personal homelab environment for self-hosting and continuous learning.
 
