@@ -1,5 +1,5 @@
 <svg role="img" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <title>Pandas</title>
+  <title>Google Gemini</title>
   <style>
     .bg { fill: #bcc3cb; stroke: #8c959f; stroke-width: 1; }
     .icon { fill: #1f2328; }
@@ -9,5 +9,7 @@
     }
   </style>
   <rect class="bg" x="2" y="2" width="28" height="28" rx="6" fill="#bcc3cb" stroke="#8c959f" stroke-width="1"/>
-  <g class="icon" fill="#24292f" transform="translate(7, 7) scale(0.75)"><path d="M16.922 0h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 2.559h2.623v2.57H8.67zm0 4.151h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z"/></g>
+  <g class="icon" fill="#24292f" transform="translate(7, 7) scale(0.75)">
+    <path d="M11.04 19.32Q12 21.51 12 24q0-2.49.93-4.68.96-2.19 2.58-3.81t3.81-2.55Q21.51 12 24 12q-2.49 0-4.68-.93a12.3 12.3 0 0 1-3.81-2.58 12.3 12.3 0 0 1-2.58-3.81Q12 2.49 12 0q0 2.49-.96 4.68-.93 2.19-2.55 3.81a12.3 12.3 0 0 1-3.81 2.58Q2.49 12 0 12q2.49 0 4.68.96 2.19.93 3.81 2.55t2.55 3.81"/>
+  </g>
 </svg>

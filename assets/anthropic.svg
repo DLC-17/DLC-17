@@ -1,5 +1,5 @@
 <svg role="img" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <title>Pandas</title>
+  <title>Claude API</title>
   <style>
     .bg { fill: #bcc3cb; stroke: #8c959f; stroke-width: 1; }
     .icon { fill: #1f2328; }
@@ -9,5 +9,5 @@
     }
   </style>
   <rect class="bg" x="2" y="2" width="28" height="28" rx="6" fill="#bcc3cb" stroke="#8c959f" stroke-width="1"/>
-  <g class="icon" fill="#24292f" transform="translate(7, 7) scale(0.75)"><path d="M16.922 0h2.623v18.104h-2.623zm-4.126 12.94h2.623v2.57h-2.623zm0-7.037h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 2.559h2.623v2.57H8.67zm0 4.151h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z"/></g>
+  <g class="icon" fill="#24292f" transform="translate(7, 7) scale(0.75)"><path d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z"/></g>
 </svg>
